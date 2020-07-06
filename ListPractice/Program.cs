@@ -10,6 +10,16 @@ namespace ListPractice
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("Hello World");
+
+
+
+
+
+
+
+
+
             //Declare and initialize a List of student names
             //List<string> studentNames = new List<string>();
 
