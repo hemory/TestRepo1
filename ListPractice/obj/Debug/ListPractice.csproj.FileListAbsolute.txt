@@ -1,0 +1,6 @@
+C:\Users\hphif\source\repos\ListPractice\ListPractice\bin\Debug\ListPractice.exe.config
+C:\Users\hphif\source\repos\ListPractice\ListPractice\bin\Debug\ListPractice.exe
+C:\Users\hphif\source\repos\ListPractice\ListPractice\bin\Debug\ListPractice.pdb
+C:\Users\hphif\source\repos\ListPractice\ListPractice\obj\Debug\ListPractice.csprojAssemblyReference.cache
+C:\Users\hphif\source\repos\ListPractice\ListPractice\obj\Debug\ListPractice.exe
+C:\Users\hphif\source\repos\ListPractice\ListPractice\obj\Debug\ListPractice.pdb
